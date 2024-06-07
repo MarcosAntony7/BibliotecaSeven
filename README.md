@@ -16,10 +16,12 @@
 
 <p style="text-decoration:none;">
 
-  <b>Observação</b> > 
+</br></br></br>
+  <b>Observações Importantes</b> > 
   </br>
-   - Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição por uso pessoal ou na internet!
+  <ul>
+   <li> Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição por uso pessoal ou na internet!</li>
   </br>
-   - Para ler arquivos em formato ".epub" instale o <a href="https://www.sumatrapdfreader.org/free-pdf-reader">"Sumatra.PDF" no site oficial deles.</a>.
-     
+   <li> Para ler arquivos em formato ".epub" instale o <a href="https://www.sumatrapdfreader.org/free-pdf-reader">"Sumatra.PDF" no site oficial deles.</a></li>
+  </ul>  
 </p>
