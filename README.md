@@ -1,9 +1,19 @@
-<h3><b>BibliotecaSeven</b></h3>
+<h2>BibliotecaSeven</h2>
 
-<h4>Sobre o projeto:</h4>
-<p>
-  Este repositório é um projeto que visa ser repleto de um acervo de fonte de pesquisa e leitura conforme desenvolvo meus estudos por livros, manuais e ebooks de diversos assuntos de Ciências, Linguagens e Tecnologias. Aceito sugestões de qualquer tipo de livro, por "Issues"!
+<h3>
+<p style="text-decoration:none;">
+  Este repositório é um projeto que visa ser repleto de um acervo de fonte de pesquisa e leitura conforme desenvolvo meus estudos por livros, manuais e ebooks de diversos assuntos de Ciências, Linguagens e Tecnologias. 
+</br></br>
+  Aceito sugestões de qualquer tipo de livro e também quanto a organização das pastas como estantes, por:  
+</h3>
 
-  Observação: Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição e uso pessoal ou na internet!
+</br>
+  <a href="https://www.instagram.com/marcos__antony7/" target="_blank"><img src="https://img.icons8.com/?size=48&id=32323&format=png" alt="Instagram" style="width: 50px; height: 50px;"></a>
+</br>
+  <a href="https://wa.me/<+5521964986068" target="_blank"><img src="https://img.icons8.com/?size=48&id=16713&format=png"  style="width: 50px; height: 50px;"></a>
 </p>
+</h3>
 
+<p>
+  <b>Observação: Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição por uso pessoal ou na internet!</b>
+</p>
