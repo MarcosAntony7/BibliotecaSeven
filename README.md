@@ -2,7 +2,8 @@
 
 <h4>Sobre o projeto:</h4>
 <p>
-  Este repositório é um projeto que visa ser repleto de um acervo de fonte de pesquisa e leitura conforme desenvolvo meus estudos por livros, manuais e ebooks de diversos assuntos de Ciências, Linguagens e Tecnologias.
-  Aceito sugestões de qualquer tipo de livro, por "Issues"!
+  Este repositório é um projeto que visa ser repleto de um acervo de fonte de pesquisa e leitura conforme desenvolvo meus estudos por livros, manuais e ebooks de diversos assuntos de Ciências, Linguagens e Tecnologias. Aceito sugestões de qualquer tipo de livro, por "Issues"!
+
+  Observação: Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição e uso pessoal ou na internet!
 </p>
 
