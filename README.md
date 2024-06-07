@@ -10,7 +10,7 @@
 </br>
   <a href="https://www.instagram.com/marcos__antony7/" target="_blank"> <img src="https://img.icons8.com/?size=48&id=32323&format=png" alt="Instagram" target="_blank"> </a>
 </br>
-  <a href="https://wa.me/<+5521964986068" target="_blank"> <img src="https://img.icons8.com/?size=48&id=16713&format=png" target="_blank"> </a>
+  <a href="https://wa.me/<5521964986068" target="_blank"> <img src="https://img.icons8.com/?size=48&id=16713&format=png" target="_blank"> </a>
 </p>
 </h3>
 
