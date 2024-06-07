@@ -14,6 +14,11 @@
 </p>
 </h3>
 
-<p>
-  <b>Observação: Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição por uso pessoal ou na internet!</b>
+<p style="text-decoration:none;">
+  <b>
+  Observação: 
+   - Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição por uso pessoal ou na internet!
+  
+   - Para ler arquivos em formato ".epub" instale o <a href="https://www.sumatrapdfreader.org/free-pdf-reader">"Sumatra.PDF" no site oficial deles.</a>.
+  </b>
 </p>
