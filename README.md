@@ -20,7 +20,8 @@
   <h4>
    <li> Todos os livros aqui publicados foram concedidos gratuitamente por suas fontes de distribuição por uso pessoal ou na internet!</li>
   </br>
-   <li> Para ler arquivos em formato ".epub" instale o "<a href="https://www.sumatrapdfreader.org/free-pdf-reader">Sumatra.PDF</a>" no site oficial deles.</li>
+   <li> Para ler arquivos em formato ".epub" instale o "<a href="https://www.sumatrapdfreader.org/free-pdf-reader">Sumatra.PDF</a>" no site oficial deles ou 
+   por extensão do Google Chrome "<a href="https://chromewebstore.google.com/detail/epubreader/jhhclmfgfllimlhabjkgkeebkbiadflb?hl=pt-BR&utm_source=ext_sidebar" target="_blank">EPUBReader</a>"</li>
   </h4>
   </ul>  
 </p>
